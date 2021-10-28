@@ -1,0 +1,3 @@
+{
+    "mongoUri": "mongodb+srv://sergei:12345qwert@cluster0.8exri.mongodb.net/testTaskDatabase?retryWrites=true&w=majority"
+}
